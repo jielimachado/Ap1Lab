@@ -1,0 +1,15 @@
+/Users/jielimachado/Ap1/bin/Debug/net7.0/Ap1
+/Users/jielimachado/Ap1/bin/Debug/net7.0/Ap1.deps.json
+/Users/jielimachado/Ap1/bin/Debug/net7.0/Ap1.runtimeconfig.json
+/Users/jielimachado/Ap1/bin/Debug/net7.0/Ap1.dll
+/Users/jielimachado/Ap1/bin/Debug/net7.0/Ap1.pdb
+/Users/jielimachado/Ap1/obj/Debug/net7.0/Ap1.csproj.AssemblyReference.cache
+/Users/jielimachado/Ap1/obj/Debug/net7.0/Ap1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jielimachado/Ap1/obj/Debug/net7.0/Ap1.AssemblyInfoInputs.cache
+/Users/jielimachado/Ap1/obj/Debug/net7.0/Ap1.AssemblyInfo.cs
+/Users/jielimachado/Ap1/obj/Debug/net7.0/Ap1.csproj.CoreCompileInputs.cache
+/Users/jielimachado/Ap1/obj/Debug/net7.0/Ap1.dll
+/Users/jielimachado/Ap1/obj/Debug/net7.0/refint/Ap1.dll
+/Users/jielimachado/Ap1/obj/Debug/net7.0/Ap1.pdb
+/Users/jielimachado/Ap1/obj/Debug/net7.0/Ap1.genruntimeconfig.cache
+/Users/jielimachado/Ap1/obj/Debug/net7.0/ref/Ap1.dll
